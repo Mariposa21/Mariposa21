@@ -14,14 +14,14 @@ Feel free to review some of the projects I'm most proud of. <br>
 And thanks for stopping by! <br>
 </p>
 <p align="left"> 
-  Showcases: <br>
+  $\color[RGB]{102,0,204} Showcases:$ <br>
   *Django (Python): <br>
     -Vacay Away CurrencyConverter: https://github.com/Mariposa21/VacayAwayCurrencyConverter/ <br>
   *Database Design and Functionality (T-SQL): <br> 
     -Family Match Database: https://github.com/Mariposa21/FamilyMatch-Database/ <br>
   *ELT Process (C# and T-SQL): <br>
     -Vaccination Records Load: https://github.com/Mariposa21/VaccinationRecordsLoad/ <br>
-  In Development: <br>
+  $\color[RGB]{0,77,230} In Development:$ <br>
   *Backend API (C# and T-SQL): <br>
     -Lab Exchange API: https://github.com/Mariposa21/LabExchangeAPI/ <br>
 </p>
