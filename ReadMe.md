@@ -13,6 +13,15 @@ When I'm not programming, I'm either traveling or living out my dream as a natur
 Feel free to review some of the projects I'm most proud of. <br>
 And thanks for stopping by! <br>
 </p>
-<div align="center" style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariposa21&&show_icons=true&theme=radical" />
-</div>
+<p align="left"> 
+  Showcases: <br>
+  *Django (Python): <br>
+    -Vacay Away CurrencyConverter: https://github.com/Mariposa21/VacayAwayCurrencyConverter/ <br>
+  *Database Design and Functionality (T-SQL): <br> 
+    -Family Match Database: https://github.com/Mariposa21/FamilyMatch-Database/ <br>
+  *ELT Process (C# and T-SQL): <br>
+    -Vaccination Records Load: https://github.com/Mariposa21/VaccinationRecordsLoad/ <br>
+  In Development: <br>
+  *Backend API (C# and T-SQL): <br>
+    -Lab Exchange API: https://github.com/Mariposa21/LabExchangeAPI/ <br>
+</p>
